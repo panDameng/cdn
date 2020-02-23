@@ -1,0 +1,2 @@
+# cdn
+my blogs cdn
